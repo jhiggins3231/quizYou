@@ -2,7 +2,7 @@ import React from 'react'
 import './stageSeven.css';
 import { makeStyles } from '@material-ui/core/styles';
 import { NavLink } from 'react-router-dom';
-import Button from '@material-ui/core/button';
+import Button from '@material-ui/core';
 import Paper from '@material-ui/core/Paper';
 import IceCream from '../assets/icecream.jpeg';
 import Brownie from '../assets/brownie.jpeg';

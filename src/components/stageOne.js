@@ -2,7 +2,7 @@ import React from 'react'
 import './stageOne.css';
 import { makeStyles } from '@material-ui/core/styles';
 import { NavLink } from 'react-router-dom';
-import Button from '@material-ui/core/button';
+import Button from '@material-ui/core';
 import Arrows from '../assets/arrows.jpeg';
 import Bus from '../assets/bus.jpeg';
 import Train from '../assets/train.jpeg';

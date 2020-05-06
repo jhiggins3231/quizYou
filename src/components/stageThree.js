@@ -2,7 +2,7 @@ import React from 'react'
 import './stageThree.css';
 import { makeStyles } from '@material-ui/core/styles';
 import { NavLink } from 'react-router-dom';
-import Button from '@material-ui/core/button';
+import Button from '@material-ui/core';
 import Street from '../assets/street.jpeg';
 import Paper from '@material-ui/core/Paper';
 import Car from '../assets/car.jpeg';
