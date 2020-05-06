@@ -2,7 +2,7 @@ import React from 'react'
 import './stageFour.css';
 import { makeStyles } from '@material-ui/core/styles';
 import { NavLink } from 'react-router-dom';
-import Button from '@material-ui/core';
+import Button from '@material-ui/core/Button';
 import Paper from '@material-ui/core/Paper';
 import Tree from '../assets/tree.jpeg';
 import Camp from '../assets/camp.jpeg';
