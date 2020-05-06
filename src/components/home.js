@@ -5,7 +5,7 @@ import { NavLink } from 'react-router-dom';
 
 import Paper from '@material-ui/core/Paper';
 
-import Button from '@material-ui/core/button';
+import Button from '@material-ui/core';
 import Entry from '../assets/entry.jpeg';
 
 const useStyles = makeStyles({
