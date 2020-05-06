@@ -39,7 +39,6 @@ const useStyles = makeStyles({
      },
      buttonRight: {
          fontFamily:  'Permanent Marker',
-         backgroundColor: 'white',
          '&:hover' : {
              backgroundImage: `url(${HomeIMG})`,
              backgroundSize: 'cover'

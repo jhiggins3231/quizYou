@@ -39,7 +39,6 @@ const useStyles = makeStyles({
    },
     buttonLeft: {
         fontFamily:  'Permanent Marker',
-        backgroundColor: 'white',
         '&:hover' : {
             backgroundImage: `url(${Car})`,
             backgroundSize: 'cover'
@@ -52,7 +51,6 @@ const useStyles = makeStyles({
     },
     buttonRight: {
         fontFamily:  'Permanent Marker',
-        backgroundColor: 'white',
         '&:hover' : {
             backgroundImage: `url(${Truck})`,
             backgroundSize: 'cover'

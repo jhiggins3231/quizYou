@@ -40,7 +40,6 @@ const useStyles = makeStyles({
      },
      buttonLeft: {
          fontFamily:  'Permanent Marker',
-         backgroundColor: 'white',
          '&:hover' : {
              backgroundImage: `url(${Brownie})`,
              backgroundSize: 'cover'
@@ -53,7 +52,6 @@ const useStyles = makeStyles({
      },
      buttonMidLeft: {
          fontFamily:  'Permanent Marker',
-         backgroundColor: 'white',
          '&:hover' : {
              backgroundImage: `url(${IceCream})`,
              backgroundSize: 'cover'
@@ -66,7 +64,6 @@ const useStyles = makeStyles({
      },
      buttonMiddle: {
          fontFamily:  'Permanent Marker',
-         backgroundColor: 'white',
          '&:hover' : {
              backgroundImage: `url(${Foster})`,
              backgroundSize: 'cover'
@@ -79,7 +76,6 @@ const useStyles = makeStyles({
      },
      buttonRight: {
         fontFamily:  'Permanent Marker',
-        backgroundColor: 'white',
         '&:hover' : {
             backgroundImage: `url(${Macadamia})`,
             backgroundSize: 'cover'
