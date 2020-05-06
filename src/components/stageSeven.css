@@ -1,0 +1,8 @@
+#buttonDessert {
+    font-size: 26px;
+    color: black;
+  } 
+  #buttonDessert:hover {
+    color: white;
+    font-size: 24px;
+  }

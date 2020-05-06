@@ -1,3 +1,6 @@
+## What's this About?
+A simple App I had made just to get more practice within React and JS. This will be an ongoing build as I intend to add small features here and there.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

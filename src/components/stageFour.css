@@ -1,0 +1,8 @@
+#mainButton {
+    color: black;
+    font-size: 28px;
+}
+#mainButton:hover {
+    color: white;
+    font-size: 28px;
+}

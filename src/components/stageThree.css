@@ -1,0 +1,7 @@
+#buttonThree {
+    font-size: 28px;
+    color: black;
+  }
+#buttonThree:hover {
+  color: white;
+}

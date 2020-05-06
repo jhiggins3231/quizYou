@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Lobster', sans-serif;
+    src: local('Lobster') url('../fonts/Lobster-Regular.ttf'), auto;
+  }
+@font-face {
+    font-family: 'Permanent Marker', cursive;
+    src: local('Permanent Marker') url('../fonts/PermanentMarker-Regular.ttf')
+  }
+#button {
+  font-size: 28px;
+  color: black;
+} 
+#button:hover {
+  color: white;
+}
