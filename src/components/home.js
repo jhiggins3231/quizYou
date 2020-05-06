@@ -38,7 +38,6 @@ const useStyles = makeStyles({
      },
      buttonLeft: {
          fontFamily:  'Permanent Marker',
-         backgroundColor: 'white',
          width: '200px',
          height: '200px',
          borderRadius: '50%',
@@ -47,7 +46,6 @@ const useStyles = makeStyles({
      },
      buttonRight: {
          fontFamily:  'Permanent Marker',
-         backgroundColor: 'white',
          width: '200px',
          height: '200px',
          borderRadius: '50%',
