@@ -69,7 +69,7 @@ const classes = useStyles();
             
 <div className={classes.flexBox}>
 <Button variant="contained" size="large" className={classes.buttonLeft}><NavLink to='/abc' id="buttonLeft">This way</NavLink></Button>
-<Paper className={classes.header}><h1>Welcome!</h1><p>Welcome to my guessing game. There are a series of questions about me that will be laid out on each page. Choosing the correct answer will allow you to move forward. Some pages have answer that are all correct but will lead you down different paths. If you happen to pick the wrong answer you will be returned to the beginning. Choose carefully and Good Luck!</p></Paper>
+<Paper className={classes.header}><h1>Welcome!</h1><p>Welcome to my guessing game. There are a series of questions about me that will be laid out on each page. Choosing the correct answer will allow you to move forward. A few questions are "Preference" questions or a "would I rather" type question. Some pages have answer that are all correct but will lead you down different paths. If you happen to pick the wrong answer you will be returned to the beginning. Choose carefully and Good Luck!</p></Paper>
 <div className={classes.buttonArea}>
 <Button variant="contained" size="large" className={classes.buttonRight}><NavLink to='/ghi' id='buttonRight'>That way</NavLink></Button>
 </div>
